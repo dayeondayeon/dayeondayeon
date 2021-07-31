@@ -25,9 +25,14 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp 
-</p>
+</p>  
 
-
+<h4 align="center">Contact Me! </h4> 
+<p align="center">  
+<a href="https://bubblebubble.tistory.com/">
+<img src="https://img.shields.io/badge/Blog-e463a3?style=flat-square&logo=Micro.blog&logoColor=white"/>         
+</a>&nbsp   
+</p>  
 <h2 align="center"> 💻About My Github </h2> 
 
             
