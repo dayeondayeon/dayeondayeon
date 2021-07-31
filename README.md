@@ -34,9 +34,13 @@
 <div align="center"> 
   
   
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23FFDCF0&title_bg=%23F76DB2&icon=github.svg&icon_color=%23FCFCFC&title=Today%27s+Hit%21&edge_flat=false)](https://hits.seeyoufarm.com)
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23FFDCF0&title_bg=%23F76DB2&icon=github.svg&icon_color=%23FCFCFC&title=Today%27s+Hit%21&edge_flat=false)](https://hits.seeyoufarm.com)  
+             
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dayeondayeon&count_private=true&title_color=e463a3)](https://github.com/anuraghazra/github-readme-stats) </div>
+[![dayeondayeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=dayeondayeon&count_private=true&include_all_commits=true&title_color=e463a3)](https://github.com/anuraghazra/github-readme-stats) 
             
+</div>
+  
+
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=fda5d1&height=250&section=footer&reversal=true)
