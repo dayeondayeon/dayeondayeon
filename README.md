@@ -39,10 +39,10 @@
 <div align="center"> 
   
   
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23FFDCF0&title_bg=%23F76DB2&icon=github.svg&icon_color=%23FCFCFC&title=Today%27s+Hit%21&edge_flat=false)](https://hits.seeyoufarm.com)  
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdayeondayeon&count_bg=%23FFBADC&title_bg=%23FF69B4&icon=github.svg&icon_color=%23FFFFFF&title=Today%27s+Hit%21&edge_flat=true)](https://hits.seeyoufarm.com) 
              
 
-[![dayeondayeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=dayeondayeon&count_private=true&include_all_commits=true&title_color=e463a3)](https://github.com/anuraghazra/github-readme-stats) 
+[![Anurag's Github stats](https://github-readme-stats.vercel.app/api?username=dayeondayeon&count_private=true&show_icons=true&title_color=e463a3&icon_color=ff69b4)](https://github.com/anuraghazra/github-readme-stats) 
             
 </div>
   
