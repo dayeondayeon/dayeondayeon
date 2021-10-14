@@ -1,9 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=fab9db&height=250&section=header&desc=🌸My%20name%20is%20Dayeon%20Choi🌸&fontColor=ffffff&descSize=30&descAlignY=30&animation=twinkling)  
+![header](https://capsule-render.vercel.app/api?type=wave&color=fab9db&height=225&section=header&desc=🌸My%20name%20is%20Dayeon%20Choi🌸&fontColor=ffffff&descSize=30&descAlignY=30&animation=twinkling)  
 
 <h2 align="center">🙋🏻‍♀️About Me</h2>
 <h4 align="center"> Recently I'm learning... </h4>
-<p align="center"> <img src="https://img.shields.io/badge/JavaScript-ffcb1e?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp  
+<p align="center"> 
+<img src="https://img.shields.io/badge/JavaScript-ffcb1e?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp  
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp 
 </p>
 
 <h4 align="center">My CS Stack (At least once I tried) </h4> 
@@ -48,4 +50,4 @@
   
 
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=fda5d1&height=250&section=footer&reversal=true)
+![footer](https://capsule-render.vercel.app/api?type=wave&color=fda5d1&height=225&section=footer&reversal=true)
