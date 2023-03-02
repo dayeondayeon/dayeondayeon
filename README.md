@@ -16,6 +16,18 @@
 <br/>
 
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white">
+<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white">
+
+<br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
+<img src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat-square&logo=Amazon EC2&logoColor=white">
+<img src="https://img.shields.io/badge/AWS RDS-527FFF?style=flat-square&logo=Amazon RDS&logoColor=white">
+<img src="https://img.shields.io/badge/AWS S3-569A31?style=flat-square&logo=Amazon S3&logoColor=white">
+
+<br/> 
+<img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white">
+
 </div>
 
 ## 🍀 My Project 
@@ -24,11 +36,11 @@
 - 채팅 어플리케이션 : Android, Server(Android Studio, Spring, MySQL)
 
 ### [ Team Project : 2020 ~ now ]
-- LitteTown : Server(SpringBoot, MySQL)
-- Spectory : Server (SpringBoot, MySQL)
-- MateMate : Android, Server(Android Studio, Node.JS, MySQL)
+- LitteTown : Server(SpringBoot, MySQL), Infra(AWS EC2, AWS RDS)
+- Spectory : Server(SpringBoot, MySQL), Infra(AWS EC2, AWS RDS, AWS S3)
+- MateMate : Android(Android Studio), Server(Node.JS, MySQL), Infra(AWS EC2, AWS RDS)
 - Memory Map : Android(Android Studio)
-- 달토끼 : Unity
+- 달토끼 : Unity(Unity Engine)
 
 ## 🍀 Activity 
 - 헤이븐케어 인턴 : 2022.09 ~ 2022.12
@@ -45,6 +57,7 @@
             
 </div>
   
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dayeon504)](https://solved.ac/dayeon504/)
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=A7C685&height=175&section=footer&reversal=true)
