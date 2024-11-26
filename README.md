@@ -8,8 +8,8 @@
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/><img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"><img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white">
 <br/>
 
-<img src="https://img.shields.io/badge/TechBlog-facddc?style=flat-square&logo=theconversation&logoColor=white"/>
-  
+<a href = "https://namolbbaemi-mori.tistory.com"><img src="https://img.shields.io/badge/TechBlog-facddc?style=flat-square&logo=theconversation&logoColor=white"/></a>
+
 </div>
 
 
@@ -28,14 +28,10 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23FFC2DD&title_bg=%23FFACD0&icon=spring.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
 
 
-| Most Used | My Commit Log | 
-| --- | --- |
-| <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/><img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"><img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"> | [![Anurag's Github stats](https://github-readme-stats.vercel.app/api?username=dayeondayeon&count_private=true&show_icons=true&title_color=FFACD0&icon_color=FFACD0)](https://github.com/anuraghazra/github-readme-stats) |
-
-
-
-  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dayeon504)](https://solved.ac/dayeon504/)
+| My Log | 
+| --- |
+| [![Anurag's Github stats](https://github-readme-stats.vercel.app/api?username=dayeondayeon&count_private=true&show_icons=true&title_color=FFACD0&icon_color=FFACD0)](https://github.com/anuraghazra/github-readme-stats) |
+| [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dayeon504)](https://solved.ac/dayeon504/) |
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=ffdbe7&height=175&section=footer&reversal=true)
