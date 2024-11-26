@@ -1,6 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=ffdbe7&height=155&section=header&fontColor=ffffff&descSize=30&descAlignY=30)  
 
+# 🌸 Dayeon's Github
+![IMG_0100](https://github.com/user-attachments/assets/4c51b544-d6e0-4061-b192-d602eb8d8d1d)
+
 ## 🌸 About
+
 💗 Mainly use Java and Spring(boot)  
 💗 Interested in Object-Oriented Design
 
